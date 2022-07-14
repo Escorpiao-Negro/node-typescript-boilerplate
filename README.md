@@ -2,7 +2,7 @@
 
 Boilerplate básico par iniciar projetos com NodeJS + Typescript.
 
-Para uitlizar, siga os seguintes passos:
+## Para uitlizar, siga os seguintes passos:
 
 - git clone git@github.com:Escorpiao-Negro/node-typescript-boilerplate.git <nome-do-seu-projeto>
 
@@ -16,6 +16,6 @@ E então basta associar este diretório com o seu repositório no Github.
 
 Se você quiser contribuir para melhorar este boilerplate, clone este repositório, modifique-o, coloque seu nome na lista de autores abaixo e submeta seu pull request.
 
-Autores:
+## Autores:
 
 - Ed de Almeida - edvaldoajunior@gmail.com 
