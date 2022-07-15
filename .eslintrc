@@ -8,5 +8,18 @@
     "eslint:recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended"
-  ]
+  ],
+  "rules": {
+    "accessor-pairs": 1,
+    "arrow-body-style": 1,
+    "camelcase": 1,
+    "capitalized-comments": 1,
+    "no-undef": 2,
+    "no-unreachable": 2,
+    "no-unreachable-loop": 2,
+    "no-unused-vars": 2,
+    "no-alert": 2,
+    "no-console": 2,
+    "no-var": 2
+  }
 }
